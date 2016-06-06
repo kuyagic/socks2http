@@ -1,3 +1,3 @@
-###依赖 pysocks
+### 依赖 pysocks
 
 * pip install pysocks
